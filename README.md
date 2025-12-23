@@ -1,2 +1,3 @@
 # YGLogin
 /register 
+/login
